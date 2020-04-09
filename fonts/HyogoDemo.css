@@ -1,0 +1,12 @@
+/* Webfont: HyogoDemo */@font-face {
+    font-family: 'HyogoDemo';
+    src: url('HyogoDemo.eot'); /* IE9 Compat Modes */
+    src: url('HyogoDemo.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('HyogoDemo.woff') format('woff'), /* Modern Browsers */
+         url('HyogoDemo.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('HyogoDemo.svg#HyogoDemo') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
